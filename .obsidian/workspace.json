@@ -1,0 +1,430 @@
+{
+  "main": {
+    "id": "c3ae8c62d91228c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b41716966f798d5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad95387a06aa331c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "K-nn (K nearest neighbours).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "K-nn (K nearest neighbours)"
+            }
+          },
+          {
+            "id": "a95ac2ac9ca725ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "K-nn (K nearest neighbours).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "K-nn (K nearest neighbours)"
+            }
+          },
+          {
+            "id": "d821d0802ab1e59a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Support Vector Machine (SVM).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Support Vector Machine (SVM)"
+            }
+          },
+          {
+            "id": "44349de552484488",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uczenie nienadzorowane.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Uczenie nienadzorowane"
+            }
+          },
+          {
+            "id": "5a9910dcbff31397",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uczenie nienadzorowane.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Uczenie nienadzorowane"
+            }
+          },
+          {
+            "id": "b3f8375beddcb185",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uczenie nienadzorowane.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Uczenie nienadzorowane"
+            }
+          },
+          {
+            "id": "f12e3a7340e71a83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jak wybrać odpowiednią liczbę klastrów.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jak wybrać odpowiednią liczbę klastrów"
+            }
+          },
+          {
+            "id": "15431dfe1c5c1755",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uczenie nienadzorowane.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Uczenie nienadzorowane"
+            }
+          },
+          {
+            "id": "3f357943248d309b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wykrywanie anomalii.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wykrywanie anomalii"
+            }
+          },
+          {
+            "id": "ef44a320d481e200",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sieci neuronowe - deep learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sieci neuronowe - deep learning"
+            }
+          },
+          {
+            "id": "7655650023ee957d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neuron.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Neuron"
+            }
+          },
+          {
+            "id": "40bb3e37960d8581",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Funkcje aktywacji.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Funkcje aktywacji"
+            }
+          },
+          {
+            "id": "5934a204550ed6da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorytm propagacji wstecznej.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Algorytm propagacji wstecznej"
+            }
+          },
+          {
+            "id": "35938785367858b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inicjalizacja parametrów sieci.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inicjalizacja parametrów sieci"
+            }
+          },
+          {
+            "id": "0534c0cb128176c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanika uczenia sieci neuronowych.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mechanika uczenia sieci neuronowych"
+            }
+          },
+          {
+            "id": "4e293b45ef888efe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regularyzacje (zapobieganie overfittingu).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regularyzacje (zapobieganie overfittingu)"
+            }
+          }
+        ],
+        "currentTab": 15
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d70ede3a85a033c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f65928e73e98aa1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "455a4a1c9a1ededb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "188b6794eb2dc45c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "05475ed1efd4377a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e0e517b6f34120c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f0c5240e7811a2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7a49bd6b28f0e73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Wykrywanie anomalii.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Wykrywanie anomalii"
+            }
+          },
+          {
+            "id": "220812d6294a8080",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Wykrywanie anomalii.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Wykrywanie anomalii"
+            }
+          },
+          {
+            "id": "bc10346ce8ddf016",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a505afac3acd284d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "49ebe72c63f15f79",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Wykrywanie anomalii.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Wykrywanie anomalii"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "455a4a1c9a1ededb",
+  "lastOpenFiles": [
+    "IMG/Pasted image 20260203003233.png",
+    "Mechanika uczenia sieci neuronowych.md",
+    "Regularyzacje (zapobieganie overfittingu).md",
+    "Inicjalizacja parametrów sieci.md",
+    "Algorytm propagacji wstecznej.md",
+    "Funkcje aktywacji.md",
+    "Neuron.md",
+    "Sieci neuronowe - deep learning.md",
+    "Wykrywanie anomalii.md",
+    "Uczenie nienadzorowane.md",
+    "Algorytm centroidów.md",
+    "Klasteryzacja.md",
+    "Redukcja wielowymiarowości.md",
+    "Jak wybrać odpowiednią liczbę klastrów.md",
+    "IMG/Pasted image 20260202194302.png",
+    "IMG/Pasted image 20260202193500.png",
+    "Support Vector Machine (SVM).md",
+    "IMG/Pasted image 20260202191838.png",
+    "K-nn (K nearest neighbours).md",
+    "IMG/Pasted image 20260202190134.png",
+    "Sposoby sprawdzania bliskości sąsiada.md",
+    "IMG/Pasted image 20260202185926.png",
+    "Pasted image 20260202185912.png",
+    "IMG/Pasted image 20260202183717.png",
+    "IMG/Pasted image 20260202183630.png",
+    "Jak działa wzmocnienie modelu w LL.md",
+    "Czym jest bootstrap.md",
+    "Losowy las.md",
+    "Drzewa decyzyjne.md",
+    "IMG/Pasted image 20260202183347.png"
+  ]
+}
