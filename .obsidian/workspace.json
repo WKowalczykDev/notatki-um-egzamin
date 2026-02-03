@@ -300,9 +300,163 @@
               "icon": "lucide-file",
               "title": "F1 score"
             }
+          },
+          {
+            "id": "c26352ba16d93d58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sieci splotowe CNN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sieci splotowe CNN"
+            }
+          },
+          {
+            "id": "b88d1facf7054277",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sieci splotowe CNN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sieci splotowe CNN"
+            }
+          },
+          {
+            "id": "a43d7ed41176eb93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Działanie splotu w CNN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Działanie splotu w CNN"
+            }
+          },
+          {
+            "id": "54cb98d41d232e00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spłaszczenie - flattening.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spłaszczenie - flattening"
+            }
+          },
+          {
+            "id": "b1e3e123f95371e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uczenie transferowe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Uczenie transferowe"
+            }
+          },
+          {
+            "id": "1743709ec4750ddb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sieci splotowe CNN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sieci splotowe CNN"
+            }
+          },
+          {
+            "id": "4abcd2e53d11ed92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sieci splotowe CNN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sieci splotowe CNN"
+            }
+          },
+          {
+            "id": "1bb5daf4a77a6f2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sieci rekurencyjne RNN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sieci rekurencyjne RNN"
+            }
+          },
+          {
+            "id": "ca7324bd41b404c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uczenie nadzorowane w RNN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Uczenie nadzorowane w RNN"
+            }
+          },
+          {
+            "id": "599576d9e7eb3b98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Niekorzystne zjawiska w RNN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Niekorzystne zjawiska w RNN"
+            }
+          },
+          {
+            "id": "05c5ce80d576e629",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zastosowania w LLM (czemu RNN zanika).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zastosowania w LLM (czemu RNN zanika)"
+            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 31
       }
     ],
     "direction": "vertical"
@@ -464,10 +618,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "9fc97d598b73b7dd",
+  "active": "05c5ce80d576e629",
   "lastOpenFiles": [
-    "Co zrobić gdy mamy dane rozłożone nierównomiernie.md",
+    "Niekorzystne zjawiska w RNN.md",
+    "Zastosowania w LLM (czemu RNN zanika).md",
+    "Uczenie nadzorowane w RNN.md",
+    "Sieci rekurencyjne RNN.md",
+    "IMG/Pasted image 20260203114609.png",
+    "Sztuczne sieci neuronowe (SSN).md",
+    "Sieci splotowe CNN.md",
+    "Generowanie dodatkowych danych.md",
+    "Uczenie transferowe.md",
+    "Spłaszczenie - flattening.md",
+    "IMG/Pasted image 20260203081343.png",
+    "Działanie splotu w CNN.md",
+    "IMG/Pasted image 20260203074431.png",
+    "MLP.md",
     "F1 score.md",
+    "Co zrobić gdy mamy dane rozłożone nierównomiernie.md",
     "IMG/Pasted image 20260203011856.png",
     "Rodzaje algorytmów adaptacyjnych.md",
     "Optymalizatory.md",
@@ -483,23 +651,10 @@
     "Wykrywanie anomalii.md",
     "Uczenie nienadzorowane.md",
     "Algorytm centroidów.md",
-    "Klasteryzacja.md",
-    "Redukcja wielowymiarowości.md",
-    "Jak wybrać odpowiednią liczbę klastrów.md",
     "IMG/Pasted image 20260202194302.png",
     "IMG/Pasted image 20260202193500.png",
-    "Support Vector Machine (SVM).md",
     "IMG/Pasted image 20260202191838.png",
-    "K-nn (K nearest neighbours).md",
     "IMG/Pasted image 20260202190134.png",
-    "Sposoby sprawdzania bliskości sąsiada.md",
-    "IMG/Pasted image 20260202185926.png",
-    "Pasted image 20260202185912.png",
-    "IMG/Pasted image 20260202183717.png",
-    "IMG/Pasted image 20260202183630.png",
-    "Jak działa wzmocnienie modelu w LL.md",
-    "Czym jest bootstrap.md",
-    "Losowy las.md",
-    "Drzewa decyzyjne.md"
+    "IMG/Pasted image 20260202185926.png"
   ]
 }
