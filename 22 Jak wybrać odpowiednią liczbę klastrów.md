@@ -1,4 +1,4 @@
-[[Klasteryzacja]]
+[[23 Klasteryzacja]]
 
 1. Elbow method
 	1. ![[Pasted image 20260202193500.png]]

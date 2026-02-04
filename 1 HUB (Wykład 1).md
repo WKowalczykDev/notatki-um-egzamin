@@ -1,5 +1,5 @@
 ### Tematyka
- - wprowadzenie do AI [[Podział uczenia maszynowego]]
+ - wprowadzenie do AI [[2 Podział uczenia maszynowego]]
  - praca z danymi
  - regresja liniowa
  - szybkość uczenia

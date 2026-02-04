@@ -19,11 +19,11 @@
     3. **Wada**: Ryzyko przeuczenia (data leakage), wymaga walidacji krzyżowej
 
 ### Gdy chcemy zmienić liczbowe na kategoryczne (feature binning)
- Gdy chcemy skategoryzować przedziały -
+ Gdy chcemy kategoryzować przedziały -
  1. unsupervised binning
-	 1.  zeby wiek nie byl szerokim ale waskim spektrum - nie znamy targetu
+	 1.  żeby wiek nie byl szerokim ale waskim spektrum - nie znamy targetu
 		 1. jest wykorzystywane w drzewach decyzyjnych
-	 2. dzielimy na rozne rodzaje liczby wystapien
-2. supervised binning
-	1. entropy baseddzielimy dane tak zeby zmaksymalzowac roznorodnosc klas - zeby jak najwiecej roznych przypadkow bylo zawarte
+	 2. dzielimy na rożne rodzaje liczby wystąpień
+2. supervised binning - **MDLP** (_Minimum Description Length Principle_)
+	1. entropy based dzielimy dane tak zeby zmaksymalzowac roznorodnosc klas - zeby jak najwiecej roznych przypadkow bylo zawarte
  #WYKŁAD2 

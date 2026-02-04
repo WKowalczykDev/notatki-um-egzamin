@@ -12,7 +12,7 @@ Próg decyzyjny: liczba określająca jak łatwo jest "uruchomić" neuron zależ
 ### 3. Funkcja aktywacji
 
 Polega na określeniu wyniku neuronu warstwy:
-[[Funkcje aktywacji]]
+[[28 Funkcje aktywacji]]
 
 
 #WYKŁAD7 

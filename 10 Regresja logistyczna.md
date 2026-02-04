@@ -10,8 +10,7 @@ W regresji logistycznej gdybyśmy użyli MSE to system utknąłby w lokalnych mi
 - a rzeczywistymi etykietami klas
 
 ### Funkcja kosztu
-Rozwiazaniem dla regresji logistycznej:
-chod
+Rozwiązaniem dla regresji logistycznej:
 **Gdy prawdziwa klasa y=1 :**
 - Model mówi hθ​(x)=0.99 (pewny siebie): Koszt=−log(0.99)≈0.01 (mała kara)
 - Model mówi hθ​(x)=0.01 (bardzo się myli): Koszt=−log(0.01)≈4.6 (ogromna kara)

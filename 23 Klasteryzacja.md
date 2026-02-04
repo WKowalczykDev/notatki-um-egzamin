@@ -10,7 +10,7 @@ Jak uzyskać dobry wynik
 	2. obliczamy końcową funkcję kosztu J
 
 ZALEŻY NAM NA TYM ABY KOŃCOWA KLASTERYZACJA MIAŁA JAK NAJNIŻSZĄ FUNKCJĘ KOSZTU **"J"**
-[[Jak wybrać odpowiednią liczbę klastrów]]
+[[22 Jak wybrać odpowiednią liczbę klastrów]]
 
 `from sklearn.cluster import KMeans`
 

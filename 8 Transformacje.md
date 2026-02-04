@@ -7,7 +7,7 @@
 ### SSN - Samoorganizujące się Sieci Neuronowe
 - Opierają się na miarach odległości do wyznaczenia neuronu zwycięscy i aktualizacji wag (dostrajanie)
 - Potrzebują znormalizowane dane, dlatego stosujemy 0,1
-- W przypadku braku normalizacji dane o wyższej zawartości zdominuja inne dane
+- W przypadku braku normalizacji dane o wyższej zawartości zdominują inne dane
 ## Najczęściej stosowane transformacje
 - Z-score (gdy rozkład zbliżony do normalnego)
 	- zachowuje informacje o outlierach

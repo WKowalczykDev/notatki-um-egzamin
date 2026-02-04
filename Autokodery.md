@@ -13,7 +13,7 @@ Celem jest znalezienie **najmniejszej liczby wymiarów**, w której można zapis
 
 ---
 
-### 3. Porównanie z PCA [[Redukcja wielowymiarowości]]
+### 3. Porównanie z PCA [[24 Redukcja wielowymiarowości]]
 
 | Cecha | PCA | Autokoder |
 |-------|-----|-----------|

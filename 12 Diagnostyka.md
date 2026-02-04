@@ -1,4 +1,4 @@
-Diagnostyka - podsumowanie
+Diagnostyka - w przypadku nie-zadowalających nas danych wyjściowych
 Możliwe strategie:
 dodać więcej danych wejściowych (próbek)?
 	→ pomoże w przypadku high variance

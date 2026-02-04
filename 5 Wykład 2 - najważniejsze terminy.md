@@ -10,7 +10,6 @@
 * Ochylenie standartowe sqrt(wariancja) - łatwiejsze do interpretacji niż wariancja
 * skośność - miara asymetrii rozkładu
 * regresja liniowa: metoda znajdowania prostej linii opisującej wszystkie elementy zbioru jak najlepiej za pomocą prostej linii
-* 
 
 
 #WYKŁAD2

@@ -1,4 +1,4 @@
-[[K-nn (K nearest neighbours)]]
+[[18 K-nn (K nearest neighbours)]]
 
 - odległość euklidesowa
 	- ![[Pasted image 20260202183630.png]]

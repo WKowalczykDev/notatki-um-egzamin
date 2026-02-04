@@ -1,7 +1,7 @@
 Jest to algorytm który ma na celu zmniejszyć wagi sieci aby zminimalizować błąd.
 Dobry optymalizator to taki który pozwoli nam zejść do minimum globalnego, a nie tylko lokalnego
 
-Działają one na zasadzie Gradient descent [[Po co gradient w ML]]
+Działają one na zasadzie Gradient descent [[11 Po co gradient w ML | Po co gradient w ML]]
 
 Wykorzystujemy różnego rodzaju narzędzi do obrabiania gradientów aby wyjść z minimum lokalnego:
 - **Vanilla/Stochastic/Mini-batch** = **Ile danych** używamy do obliczenia jednego gradientu (kierunku kroku)
